@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Enemy",
+  "base_artist": "the brilliant green",
+  "createdAt": "2026-03-20T12:49:40.757778Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Enemy (From the series \"Arcane League of Legends\")",
+      "artist": "Imagine Dragons feat. JID, Arcane & League of Legends",
+      "has_synced": true,
+      "path": "select/01_Enemy_(From_the_series__Arcane_League_of_Legends_)_Imagine_Dragons_feat._JID,_Arcane_&_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Enemy (from the series Arcane League of Legends)",
+      "artist": "Imagine Dragons, JID & League of Legends",
+      "has_synced": true,
+      "path": "select/02_Enemy_(from_the_series_Arcane_League_of_Legends)_Imagine_Dragons,_JID_&_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Enemy",
+      "artist": "Erin Rae",
+      "has_synced": false,
+      "path": "select/03_Enemy_Erin_Rae.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Know Your Enemy",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/04_Know_Your_Enemy_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BloodBorn Enemy",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/05_BloodBorn_Enemy_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pubic Enemy",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/06_Pubic_Enemy_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sex Is Not The Enemy",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/07_Sex_Is_Not_The_Enemy_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Recognizing The Enemy",
+      "artist": "Yves Tumor",
+      "has_synced": true,
+      "path": "select/08_Recognizing_The_Enemy_Yves_Tumor.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Become The Enemy",
+      "artist": "The Lemonheads",
+      "has_synced": false,
+      "path": "select/09_Become_The_Enemy_The_Lemonheads.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Become The Enemy",
+      "artist": "The Lemonheads",
+      "has_synced": true,
+      "path": "select/10_Become_The_Enemy_The_Lemonheads.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Enemy Turf",
+      "artist": "Lil Wayne feat. Juvenile",
+      "has_synced": false,
+      "path": "select/11_Enemy_Turf_Lil_Wayne_feat._Juvenile.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Enemy Turf (feat. Juvenile)",
+      "artist": "Lil Wayne",
+      "has_synced": false,
+      "path": "select/12_Enemy_Turf_(feat._Juvenile)_Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Warned You: Do Not Make An Enemy Of Me",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/13_I_Warned_You__Do_Not_Make_An_Enemy_Of_Me_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "My Enemy",
+      "artist": "Hans Zimmer feat. The Magnificent Six, Pharrell Williams & Johnny Marr",
+      "has_synced": true,
+      "path": "select/14_My_Enemy_Hans_Zimmer_feat._The_Magnificent_Six,_Pharrell_Williams_&_Johnny_Marr.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "My Enemy",
+      "artist": "Hans Zimmer, The Magnificent Six, Pharrell Williams & Johnny Marr",
+      "has_synced": true,
+      "path": "select/15_My_Enemy_Hans_Zimmer,_The_Magnificent_Six,_Pharrell_Williams_&_Johnny_Marr.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sleeping With the Enemy (feat. S-X)",
+      "artist": "KSI feat. S-X",
+      "has_synced": false,
+      "path": "select/16_Sleeping_With_the_Enemy_(feat._S-X)_KSI_feat._S-X.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sleeping With the Enemy (feat. S-X)",
+      "artist": "KSI",
+      "has_synced": false,
+      "path": "select/17_Sleeping_With_the_Enemy_(feat._S-X)_KSI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Enemy",
+      "artist": "the brilliant green",
+      "has_synced": false,
+      "path": "select/pl_01_Enemy_the_brilliant_green.txt"
+    }
+  ]
+}
